@@ -1,0 +1,41 @@
+.d-flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.space-btw {
+    justify-content: space-between;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+button {
+    margin: 10px 20px;
+}
+
+
+.inputBox {
+    width: 400px;
+    height: 150px;
+    justify-content: space-between;
+}
+
+.box {
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.box img {
+    height: 100px;
+}
